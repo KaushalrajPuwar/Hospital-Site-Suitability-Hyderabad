@@ -1,0 +1,4 @@
+*.gpkg-shm
+*.gpkg-wal
+*.tif
+*.tif.*
