@@ -1,0 +1,13 @@
+ors:
+  engine:
+    profiles:
+      driving-car:
+        enabled: true
+        graph_path: /home/ors/graphs/driving-car
+        build:
+          source_file: /ors-core/data/telangana.pbf
+
+server:
+  host: 0.0.0.0
+  port: 8080
+

@@ -3,3 +3,7 @@
 *.tif
 *.tif.*
 .DS_Store
+*.qmd
+*.csv
+*.csvt
+*.prj
