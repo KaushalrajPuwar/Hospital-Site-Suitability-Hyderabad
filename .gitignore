@@ -3,3 +3,4 @@
 *.tif
 *.tif.*
 .DS_Store
+*.qmd
