@@ -4,3 +4,7 @@
 *.tif.*
 .DS_Store
 *.qmd
+*.csv
+*.csvt
+*.prj
+travel_times.gpkg
